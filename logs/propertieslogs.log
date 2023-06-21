@@ -1,0 +1,4 @@
+[INFO ] 2023-06-09 10:45:26.564 [main] App - info message
+[WARN ] 2023-06-09 10:45:26.569 [main] App - warning message
+[ERROR] 2023-06-09 10:45:26.572 [main] App - error message 
+[FATAL] 2023-06-09 10:45:26.575 [main] App - fatal message
